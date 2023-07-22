@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Data Engineer with resilient, team player with strong communication, open to innovation, and knowledge-sharing skills.</h3>
+<h3 align="center">A Data Engineer with resilient, team player with strong communication, open to innovation, and knowledge-sharing skills</h3>
+
+<div class='container'>
+<div>
+<img align="right" style="height: auto; width: 45%; class="img" src="https://github-readme-stats.vercel.app/api?username=falaybeg&show_icons=true&theme=radical" /><div>
 
 
-- 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I'm looking to collaborate to meet and exchange know-how with new professional people
+
+🌱 I’m currently learning **Data Engineering**
+
+👯 I'm looking to collaborate to meet and exchange know-how with new professional people
+
+[![](https://visitcount.itsvg.in/api?id=falaybeg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with me:
 
@@ -62,9 +70,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a> 
 </p>
-
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=falaybeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=falaybeg&icon=0&color=0)](https://visitcount.itsvg.in)
