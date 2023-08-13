@@ -12,7 +12,7 @@
 
 👯 I'm looking to collaborate to meet and exchange know-how with new professional people
 
-[![](https://visitcount.itsvg.in/api?id=falaybeg&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Views](https://komarev.com/ghpvc/?username=falaybeg&color=db5a6b)
 
 ## 🌐 Connect with me:
 
